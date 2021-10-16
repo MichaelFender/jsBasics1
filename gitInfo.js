@@ -58,6 +58,8 @@ console.log (clone)
 */
 
 //CODE HERE
+let status = [{description: 'This command displays the state of the working directory and the staging area.'}, {code: 'git status'}]
+console.log (status)
 
 //////////////////PROBLEM 6////////////////////
 /*
