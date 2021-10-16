@@ -68,6 +68,8 @@ console.log (status)
 */
 
 //CODE HERE
+let add = [{description: 'The git add command adds a change in the working directory to the staging area.'}, {code: 'git add'}]
+console.log (add)
 
 //////////////////PROBLEM 7////////////////////
 /*
