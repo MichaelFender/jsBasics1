@@ -77,7 +77,8 @@ console.log (add)
     following the guidelines above to describe the commit command.
 */
 
-//CODE HERE
+let commit = [{description: 'The git commit command saves a snapshot of your repo at a specific point in time.'}, {code: 'git commit'}]
+console.log (commit)
 
 
 //////////////////PROBLEM 8////////////////////
