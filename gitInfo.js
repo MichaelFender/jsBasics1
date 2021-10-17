@@ -88,3 +88,6 @@ console.log (commit)
 */
 
 //CODE HERE
+
+let push = [{description: 'The git push command is used to upload local repository content to a remote repository.'}, {code: 'git push'}]
+console.log (push)
